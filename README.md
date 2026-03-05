@@ -34,12 +34,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-opal-two-64.vercel.app/api?username=Rusher0077&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&hide=prs,issues,contribs" alt="GitHub Stats" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-opal-two-64.vercel.app/api/top-langs/?username=Rusher0077&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&hide=java,javascript,html,css" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=Rusher0077&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
