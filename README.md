@@ -1,7 +1,7 @@
 # Hi 👋 I'm Pallab Dey
 
 💻 **Aspiring Data Analyst**  
-📊 Passionate about turning raw data into meaningful business insights  
+📊 Uncovering the hidden patterns that turn guesses into growth.
 📍 Based in Sylhet, Bangladesh  
 
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -44,6 +44,8 @@
 ## 🚀 Featured Projects
 
 ### 🍕 Pizza Sales Analysis  
+![Pizza Sales Dashboard](https://raw.githubusercontent.com/Rusher0077/Pizza-Sales-Analysis/main/Dashboard/dashboard.png)
+
 **Technologies**: PostgreSQL, SQL (Joins, CTEs, Aggregations, Date Functions)  
 
 Analyzed multi-year pizza sales dataset to uncover key business insights:  
