@@ -10,6 +10,7 @@
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
+
 ---
 
 ## 🛠 Skills
@@ -85,3 +86,11 @@ Goal: Publish 1 complete dashboard/analysis project per month 🚀
 > "In God we trust; all others rely on numbers 😄"
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about data! 📈
+
+--- 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rusher0077&color=0e75b6&style=for-the-badge" />
+</p>
+
