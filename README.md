@@ -2,6 +2,7 @@
 
 💻 **Aspiring Data Analyst**  
 📊 Uncovering the hidden patterns that turn guesses into growth.
+<br>
 📍 Based in Sylhet, Bangladesh  
 
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
