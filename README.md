@@ -1,7 +1,7 @@
 # Hi 👋 I'm Pallab Dey
 
-💻 **Aspiring Data Analyst**  
-📊 Uncovering the hidden patterns that turn guesses into growth.
+ **Data Analyst**  
+ Uncovering the hidden patterns that turn guesses into growth.
 <br>
 📍 Based in Sylhet, Bangladesh  
 
@@ -14,26 +14,18 @@
 
 ---
 
-## 🛠 Skills
+## Skills
 
-- SQL (Advanced Queries, Joins, CTEs, Window Functions)  
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization & Dashboarding  
-- Python (Pandas, NumPy)  
-- Microsoft Excel (Pivot Tables, Charts, Power Query)  
-
-## ⚙️ Tools & Technologies
-
-- **Databases**: MS SQL Server, PostgreSQL  
-- **Visualization**: Power BI  
-- **Programming**: Python (Pandas, NumPy)  
-- **Spreadsheets**: Excel (Advanced)  
-- **Version Control**: Git & GitHub  
+- **SQL** — Joins, CTEs, Window Functions, Aggregations
+- **Power BI** — Data Modeling, DAX, Calculated Columns, Power Query, Interactive Dashboards
+- **Python** — Pandas, NumPy
+- **Excel** — Pivot Tables, Power Query, Advanced Formulas, Charts
+- **Core Analytics** — Data Cleaning, EDA, Business Intelligence, Data Storytelling
+- **Version Control** — Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -43,10 +35,19 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
+### Maven Toys Sales Analysis
+**Technologies**: MySQL, Power BI (DAX, Data Modeling, Calculated Columns, Power Query)
 
-### 🍕 Pizza Sales Analysis  
-![Pizza Sales Dashboard](https://raw.githubusercontent.com/Rusher0077/Pizza-Sales-Analysis/main/Dashboard/dashboard.png)
+Analyzed ~829K transaction records across 50 stores in Mexico to surface actionable business insights:
+- Diagnosed a -11.3% gross margin decline despite 30.9% revenue growth and 40.8% increase in units sold
+- Identified Electronics as the highest margin category (44.6%) yet underleveraged at only 15.55% revenue share
+- Flagged 20 SKUs at active stockout risk across all locations, including top seller Lego Bricks with 3 days of stock left
+- Built a 5-page interactive Power BI dashboard with drill-through to individual store level across all 50 locations
+
+[→ View Repository](https://github.com/Rusher0077/Maven-Toys-Analysis)
+
+###  Pizza Sales Analysis  
 
 **Technologies**: PostgreSQL, SQL (Joins, CTEs, Aggregations, Date Functions)  
 
@@ -57,7 +58,7 @@ Analyzed multi-year pizza sales dataset to uncover key business insights:
 
 [→ View Repository](https://github.com/Rusher0077/Pizza-Sales-Analysis)
 
-### 📚 SQL Practice Portfolio  
+###  SQL Practice Portfolio  
 **Technologies**: SQL (various platforms), VS Code 
 
 A growing collection of solved SQL problems from LeetCode, HackerRank, StrataScratch and DataLemur.  
@@ -67,14 +68,11 @@ Covers: Aggregations, Joins, Subqueries, Window Functions, Case Statements, Date
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-- Advanced SQL (Complex Window Functions, Query Optimization)  
-- Power BI (DAX, Data Modeling, Interactive Dashboards)  
+- Advanced SQL (Complex Window Functions, Query Optimization)   
 - Python for Data Analysis (Matplotlib, Seaborn)  
-- Building end-to-end dashboard projects  
-
-Goal: Publish 1 complete dashboard/analysis project per month 🚀
+- Workflow Automation  
 
 ---
 
@@ -85,13 +83,4 @@ Goal: Publish 1 complete dashboard/analysis project per month 🚀
 - **GitHub**: [github.com/Rusher0077](https://github.com/Rusher0077)  
 
 > "In God we trust; all others rely on numbers 😄"
-
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about data! 📈
-
---- 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rusher0077&color=0e75b6&style=for-the-badge" />
-</p>
 
